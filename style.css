@@ -1,0 +1,72 @@
+.menu
+{
+    height: 2vh;
+    margin: 1vw;
+}
+.menuOption
+{
+    color:green;
+}
+.container
+{
+    width:98%;
+    padding: 1%;
+    height:98%;
+    background-color:rgba(29, 238, 99, 0.21);
+}
+.entrypoint
+{
+    float: left;    
+    width: 30vw;
+}
+textarea
+{
+    width: 25vw;
+    font-size: 1em;
+    height: 15vw;
+}
+.itemscontainer
+{
+    max-height: 60vh;
+    overflow-y: scroll;    
+    width: 33vw;
+}
+.questionBoard
+{
+    text-align: center;
+
+}
+.gallery
+{
+
+    
+}
+.item
+{
+    margin: 1em;
+    border-radius: 10px;
+    width: 30vw;
+    
+    
+}
+.question
+{
+background-color: slateblue;
+padding: .3em;
+color:white;
+}
+.Board
+{
+    font-size: 1em;
+    text-align: center;
+    margin: 1em;
+    width: 100%;
+    color: rgba(0, 0, 0, 0.50)
+}
+.answer
+{
+    padding: .5em;
+    background-color: rgba(105, 90, 205, 0.47);
+    overflow-y: auto;
+    
+}
