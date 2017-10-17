@@ -35,12 +35,12 @@
 
         }
         </script>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="../style.css">
 <title>quizer:Dash</title>
 </head>
 <body>
     <div class="menu">
-<div class="menuOption">Contest</div>
+<div class="menuOption"><a href="allQuestions.php">Contest</a></div>
     </div>
 <div class = "container">
     
